@@ -2,7 +2,7 @@
   "name": "netflix",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vinayan09.github.io/movie-app",
+  "homepage": "http://vinayan09.github.io/react-app",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.3.6",
